@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.list1{
+    margin: 50px;
+    padding: 30px;
+    background-color: rgb(247, 247, 255);
+    width: 360px;
+
+}
+
+.list1 h2{
+    margin-bottom: 30px;
+}
+.list1 li{
+    margin-left: 50px;
+}
+.list1 ul{
+    margin-bottom: 30px;
+}
+.list1 img{
+    width: 30px;
+    height: 20px;
+}
+.exchange{
+    border: black solid 1px;
+}
+.exchange td, th{
+    border: black solid 1px; 
+}
